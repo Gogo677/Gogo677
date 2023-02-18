@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gogo677
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python and web development
-- 💞️ I’m looking to collaborate on all were I can learn
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning fullstack with JS 
+- 💞️ I’m looking to collaborate on places were I can add value and learn
 - 📫 How to reach me via twitter @GOGITOXD
 
 <!---
